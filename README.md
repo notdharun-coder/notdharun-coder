@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dharun 👋
 
-<!--
-**notdharun-coder/notdharun-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 College Student | Future Game Developer  
+💻 Currently learning: C++, Unreal Engine  
+🚀 Building my skills from scratch  
 
-Here are some ideas to get you started:
+## 🔧 Skills (Beginner)
+- C++ basics
+- Unreal Engine (learning)
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Game Development
+- Daily coding practice
+- Learning Git & GitHub
+
+## 🎯 Goals (2026)
+- Build 3 game projects
+- Learn Unreal Engine deeply
+- Get my first internship
+
+## 🔥 My Journey
+Started from zero and building daily in public 🚀
