@@ -23,3 +23,6 @@
 ---
 
 ## 🧰 Skills
+
+-Linux
+-Networking
