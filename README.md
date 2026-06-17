@@ -1,23 +1,29 @@
-# Hi, I'm Dharun 👋
+<h1 align="center">Hey, I'm Dharun 👋</h1>
 
-🎓 College Student | Future Game Developer  
-💻 Currently learning: C++, Unreal Engine  
-🚀 Building my skills from scratch  
+<p align="center">
+  🎓 BTech CSE • Year 1 &nbsp;|&nbsp; 🔐 Cybersecurity Learner &nbsp;|&nbsp; 🛠️ Builder
+</p>
 
-## 🔧 Skills (Beginner)
-- C++ basics
-- Unreal Engine (learning)
-- Problem solving
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/notdharun-coder.png" alt="TryHackMe Badge" />
+</p>
 
-## 📌 Current Focus
-- Game Development
-- Daily coding practice
-- Learning Git & GitHub
+---
 
-## 🎯 Goals (2026)
-- Build 3 game projects
-- Learn Unreal Engine deeply
-- Get my first internship
+## 🔐 Currently Learning
 
-## 🔥 My Journey
-Started from zero and building daily in public 🚀
+- **TryHackMe** — Pre-Security Path (Module 6 done ✅)
+- Linux CLI, Networking fundamentals, Bash scripting
+- Building toward: ethical hacking & network engineering
+
+---
+
+## 🚀 Projects I've Built
+
+| Project | What it does | Stack |
+|--------|-------------|-------|
+| 🤖 **Friday** | Iron Man–inspired AI voice assistant for macOS | Python, Ollama, Whisper |
+
+---
+
+## 🧰 Skills
