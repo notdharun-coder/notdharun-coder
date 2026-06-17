@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Dharun 👋</h1>
 
 <p align="center">
-  🎓 BTech CSE • Year 1 &nbsp;|&nbsp; 🔐 Cybersecurity Learner &nbsp;|&nbsp; 🛠️ Builder
+  🎓 BTech CSE  &nbsp;|&nbsp; 🔐 Cybersecurity Learner &nbsp;|&nbsp; 🛠️ Builder
 </p>
 
 <p align="center">
