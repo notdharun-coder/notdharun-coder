@@ -4,15 +4,11 @@
   🎓 BTech CSE  &nbsp;|&nbsp; 🔐 Cybersecurity Learner &nbsp;|&nbsp; 🛠️ Builder
 </p>
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/notdharun-coder.png" alt="TryHackMe Badge" />
-</p>
-
 ---
 
 ## 🔐 Currently Learning
 
-- **TryHackMe** — Pre-Security Path (Module 6 done ✅)
+- **TryHackMe** — Pre-Security Path 
 - Linux CLI, Networking fundamentals, Bash scripting
 - Building toward: ethical hacking & network engineering
 
