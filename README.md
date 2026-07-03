@@ -19,8 +19,7 @@
 | Project | What it does | Stack |
 |--------|-------------|-------|
 | 🤖 **Friday** | Iron Man–inspired AI voice assistant for macOS | Python, Ollama, Whisper |
-| 🏢 Company Management Portal | Full-stack company records management app with JWT auth | React, FastAPI, MySQL |
-
+| 🏢 [Company Management Portal](https://github.com/notdharun-coder/company-management-portal) | Full-stack company records management app with JWT auth | React, FastAPI, MySQL |
 ---
 
 ## 🧰 Skills
